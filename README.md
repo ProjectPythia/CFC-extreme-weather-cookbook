@@ -6,7 +6,7 @@
 [![Binder](https://binder.projectpythia.org/badge_logo.svg)](https://binder.projectpythia.org/v2/gh/ProjectPythia/cookbook-template/main?labpath=notebooks)
 [![DOI](https://zenodo.org/badge/475509405.svg)](https://zenodo.org/badge/latestdoi/475509405)
 
-This Project Pythia Cookbook covers ... (replace `...` with the main subject of your cookbook ... e.g., _working with radar data in Python_)
+This Project Pythia Cookbook covers exploring extreme weather variability in the atmosphere and ocean using CMIP6 data.
 
 ## Motivation
 
@@ -14,7 +14,7 @@ Extreme weather events, both atmospheric and oceanic, are increasing in frequenc
 
 ## Authors
 
-[Jhordanne Jones](@jhordannej), [Shanice Bailey](@shanicetbailey), [Caribbeans For Climate community](https://www.caribbeansforclimate.com/). _Acknowledge primary content authors here_
+[Jhordanne Jones](@jhordannej), [Shanice Bailey](@shanicetbailey), [Caribbeans For Climate community](https://www.caribbeansforclimate.com/).
 
 ### Contributors
 
@@ -24,13 +24,17 @@ Extreme weather events, both atmospheric and oceanic, are increasing in frequenc
 
 ## Structure
 
-(State one or more sections that will comprise the notebook. E.g., _This cookbook is broken up into two main sections - "Foundations" and "Example Workflows."_ Then, describe each section below.)
+_This cookbook is broken up into three main sections - "Extreme SSTs" and "Extreme Precipitation" and "Links between atmosphere, ocean and ENSO"._
 
-### Section 1 ( Replace with the title of this section, e.g. "Foundations" )
+### Section 1 Extreme SSTs 
 
 (Add content for this section, e.g., "The foundational content includes ... ")
 
-### Section 2 ( Replace with the title of this section, e.g. "Example workflows" )
+### Section 2 Extreme Precipitations
+
+(Add content for this section, e.g., "Example workflows include ... ")
+
+### Section 3 Links between atmosphere, ocean and ENSO
 
 (Add content for this section, e.g., "Example workflows include ... ")
 
