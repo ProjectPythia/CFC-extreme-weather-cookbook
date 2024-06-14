@@ -2,9 +2,9 @@
 
 # Caribbeans for Climate: Understanding extreme weather variability in the Caribbean region Cookbook
 
-[![nightly-build](https://github.com/ProjectPythia/cookbook-template/actions/workflows/nightly-build.yaml/badge.svg)](https://github.com/ProjectPythia/cookbook-template/actions/workflows/nightly-build.yaml)
-[![Binder](https://binder.projectpythia.org/badge_logo.svg)](https://binder.projectpythia.org/v2/gh/ProjectPythia/cookbook-template/main?labpath=notebooks)
-[![DOI](https://zenodo.org/badge/475509405.svg)](https://zenodo.org/badge/latestdoi/475509405)
+[![nightly-build](https://github.com/ProjectPythia/CFC-extreme-weather-cookbook/actions/workflows/nightly-build.yaml/badge.svg)](https://github.com/ProjectPythia/CFC-extreme-weather-cookbook/actions/workflows/nightly-build.yaml)
+[![Binder](https://binder.projectpythia.org/badge_logo.svg)](https://binder.projectpythia.org/v2/gh/ProjectPythia/CFC-extreme-weather-cookbook/main?labpath=notebooks)
+[![DOI](https://zenodo.org/badge/813816008.svg)](https://zenodo.org/badge/latestdoi/813816008)
 
 This Project Pythia Cookbook covers exploring extreme weather variability in the atmosphere and ocean using CMIP6 data.
 
@@ -18,8 +18,8 @@ Extreme weather events, both atmospheric and oceanic, are increasing in frequenc
 
 ### Contributors
 
-<a href="https://github.com/ProjectPythia/cookbook-template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ProjectPythia/cookbook-template" />
+<a href="https://github.com/ProjectPythia/CFC-extreme-weather-cookbook/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ProjectPythia/CFC-extreme-weather-cookbook" />
 </a>
 
 ## Structure
