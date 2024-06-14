@@ -29,18 +29,18 @@ We would like to especially thank [Justus Magin](https://github.com/keewis) for 
 
 _This cookbook has three sections: "Extreme SSTs" and "Extreme Precipitation" and "Links between atmosphere, ocean and ENSO"._
 
-### Section 1 Extreme SSTs 
+### Section 1: Extreme SSTs 
 
 (Add content for this section, e.g., "The foundational content includes ... ")
 
-### Section 2 Precipitation extremes using HighResMIP
+### Section 2: Precipitation extremes using HighResMIP
 
 In this notebook, we'll examine precipitation extremes using the HighResMIP data. We'll do the following:
 - Making subregional-scale plots with the HighResMIP
 - Plot spatial maps of linear trends in summertime environmental variables
 - Calculate a seasonal indicator of tropical cyclogenesis
 
-### Section 3 Links between atmosphere, ocean and ENSO
+### Section 3: Links between atmosphere, ocean and ENSO
 
 (Add content for this section, e.g., "Example workflows include ... ")
 
