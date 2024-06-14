@@ -25,4 +25,4 @@ dependencies:
   - dask-gateway
   - tqdm
   - nc-time-axis
-  - mpl-tools
+  - mpltoolbox
