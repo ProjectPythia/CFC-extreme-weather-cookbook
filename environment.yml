@@ -24,3 +24,5 @@ dependencies:
   - datashader
   - dask-gateway
   - tqdm
+  - nc-time-axis
+  - mpl-tools
