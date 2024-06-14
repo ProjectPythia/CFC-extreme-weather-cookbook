@@ -13,8 +13,6 @@ dependencies:
   - nc_time_axis
   - regionmask  
   - xmip
-  - xmip.preprocessing
-  - xmip.regionmask
   - xgcm
   - cmocean
   - matplotlib
