@@ -20,8 +20,6 @@ dependencies:
   - intake
   - xesmf
   - cartopy
-  - xgcm
-  - import xgcm 
   - holoviews
   - datashader
   - mpl_toolkits
