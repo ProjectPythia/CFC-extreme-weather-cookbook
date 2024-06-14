@@ -32,7 +32,10 @@ _This cookbook has three sections: "Extreme SSTs" and "Extreme Precipitation" an
 
 ### Section 2 Extreme Precipitations
 
-(Add content for this section, e.g., "Example workflows include ... ")
+In this notebook, we'll examine precipitation extremes using the HighResMIP data. We'll do the following:
+- Making subregional-scale plots with the HighResMIP
+- Plot spatial maps of linear trends in summertime environmental variables
+- Calculate a seasonal indicator of tropical cyclogenesis
 
 ### Section 3 Links between atmosphere, ocean and ENSO
 
