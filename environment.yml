@@ -10,7 +10,6 @@ dependencies:
   - xarray
   - zarr
   - fsspec
-  - nc_time_axis
   - regionmask  
   - xmip
   - xgcm
@@ -22,4 +21,3 @@ dependencies:
   - cartopy
   - holoviews
   - datashader
-  - mpl_toolkits
