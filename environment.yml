@@ -5,3 +5,16 @@ dependencies:
   - jupyter-book
   - jupyterlab
   - sphinx-pythia-theme
+
+numpy
+pandas
+xarray
+zarr
+fsspec
+nc_time_axis
+regionmask  
+xmip.preprocessing
+xmip.regionmask
+xgcm
+cmocean
+matplotlib
