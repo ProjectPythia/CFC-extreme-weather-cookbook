@@ -7,6 +7,11 @@ authors:
     orcid: https://orcid.org/0000-0002-4127-2315 # optional
     website: https://github.com/jhordannej # optional
     affiliation: CPAESS/UCAR # optional
+  - family-names: Bailey
+    given-names: Shanice T.B.
+    orcid: https://orcid.org/0000-0002-8176-9465
+    website: https://shanicetbailey.github.io/
+    affiliation: Columbia University Lamont Doherty Earth Observatory
   - family-names: Rose
     given-names: Brian E. J.
     orcid: https://orcid.org/0000-0002-9961-3821 # optional
