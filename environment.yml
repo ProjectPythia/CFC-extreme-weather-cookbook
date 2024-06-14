@@ -5,26 +5,25 @@ dependencies:
   - jupyter-book
   - jupyterlab
   - sphinx-pythia-theme
-
-numpy
-pandas
-xarray
-zarr
-fsspec
-nc_time_axis
-regionmask  
-xmip
-xmip.preprocessing
-xmip.regionmask
-xgcm
-cmocean
-matplotlib
-bokeh
-intake
-xesmf
-cartopy
-xgcm
-import xgcm 
-holoviews
-datashader
-mpl_toolkits
+  - numpy
+  - pandas
+    - xarray
+    - zarr
+    - fsspec
+    - nc_time_axis
+    - regionmask  
+    - xmip
+    - xmip.preprocessing
+    - xmip.regionmask
+    - xgcm
+    - cmocean
+    - matplotlib
+    - bokeh
+    - intake
+    - xesmf
+    - cartopy
+    - xgcm
+    - import xgcm 
+    - holoviews
+    - datashader
+    - mpl_toolkits
