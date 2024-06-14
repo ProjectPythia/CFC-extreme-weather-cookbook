@@ -13,8 +13,18 @@ zarr
 fsspec
 nc_time_axis
 regionmask  
+xmip
 xmip.preprocessing
 xmip.regionmask
 xgcm
 cmocean
 matplotlib
+bokeh
+intake
+xesmf
+cartopy
+xgcm
+import xgcm 
+holoviews
+datashader
+mpl_toolkits
