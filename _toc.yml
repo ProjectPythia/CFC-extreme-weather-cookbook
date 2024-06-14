@@ -4,6 +4,11 @@ parts:
   - caption: Preamble
     chapters:
       - file: notebooks/how-to-cite
-  - caption: Introduction
+  - caption: Notebook Gallery
     chapters:
-      - file: notebooks/notebook-template
+      - file: notebooks/cfc-ocean
+      - title: Section 1: Extreme SSTs in CMIP6
+      - file: notebooks/cfc-atm
+      - title: Section 2: Extreme Precipitation in HighResMIP
+      -file: notebooks/notebook-template
+      - title: Section 3: Links between atmosphere, ocean and ENSO
