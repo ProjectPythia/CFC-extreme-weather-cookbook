@@ -22,3 +22,7 @@ dependencies:
   - holoviews
   - datashader
   - dask_gateway
+  - os
+  - sys
+  - multiprocessing
+  - tqdm
