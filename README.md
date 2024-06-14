@@ -14,7 +14,7 @@ Extreme weather events, both atmospheric and oceanic, are increasing in frequenc
 
 ## Authors
 
-[Jhordanne Jones](@jhordannej), [Shanice Bailey](@shanicetbailey), [Caribbeans For Climate community](https://www.caribbeansforclimate.com/).
+[Jhordanne Jones](github/jhordannej), [Shanice Bailey](github/shanicetbailey), [Caribbeans For Climate community](https://www.caribbeansforclimate.com/).
 
 ### Contributors
 
