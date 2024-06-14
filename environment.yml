@@ -26,3 +26,4 @@ dependencies:
   - tqdm
   - nc-time-axis
   - mpltoolbox
+  - gcsfs
