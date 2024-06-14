@@ -1,4 +1,4 @@
-<img src="CFC-logo.PNG" alt="thumbnail" width="300"/>
+<img src="CFC_logo.PNG" alt="thumbnail" width="300"/>
 
 # Caribbeans for Climate: Understanding extreme weather variability in the Caribbean region Cookbook
 
