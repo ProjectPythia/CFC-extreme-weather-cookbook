@@ -7,8 +7,5 @@ parts:
   - caption: Notebook Gallery
     chapters:
       - file: notebooks/cfc-ocean
-      - title: Extreme SSTs in CMIP6
       - file: notebooks/cfc-atm
-      - title: Caribbean precipitation extremes using HighResMIP
-      -file: notebooks/notebook-template
-      - title: Links between atmosphere, ocean and ENSO
+      - file: notebooks/notebook-template
