@@ -30,7 +30,7 @@ _This cookbook has three sections: "Extreme SSTs" and "Extreme Precipitation" an
 
 (Add content for this section, e.g., "The foundational content includes ... ")
 
-### Section 2 Extreme Precipitations
+### Section 2 Caribbean precipitation extremes using HighResMIP
 
 In this notebook, we'll examine precipitation extremes using the HighResMIP data. We'll do the following:
 - Making subregional-scale plots with the HighResMIP
