@@ -27,3 +27,7 @@ dependencies:
   - nc-time-axis
   - mpltoolbox
   - gcsfs
+  - flox
+  - dask
+  - multiprocess
+  - scipy
