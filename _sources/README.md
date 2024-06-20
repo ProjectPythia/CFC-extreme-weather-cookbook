@@ -32,7 +32,7 @@ _This cookbook has three sections: "Extreme SSTs" and "Extreme Precipitation" an
 ### Section 1: Extreme SSTs 
 
 In this notebook we will 
-- identify extreme ocean temperatures by locating and every grid cell and timestep the temperatures that lie within the 95th percentile and persisted for >10 days
+- identify extreme ocean temperatures by locating and every grid cell and timestep the temperatures that lie within the 99th percentile and persisted for >10 days
 - Plot the Nino3.4 index
 - Plot the extreme SST timeseries over the Nino3.4 index to qualitively analyze any discernable relationship between the two timeseries.
 - (Basic statistical analysis coming soon!)
