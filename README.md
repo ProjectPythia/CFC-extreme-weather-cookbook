@@ -1,6 +1,6 @@
-<img src="CFC_logo.PNG" alt="thumbnail" width="300"/>
-
 # Caribbeans for Climate: Understanding extreme weather variability in the Caribbean region Cookbook
+
+<img src="CFC_logo.PNG" alt="thumbnail" width="300"/>
 
 [![nightly-build](https://github.com/ProjectPythia/CFC-extreme-weather-cookbook/actions/workflows/nightly-build.yaml/badge.svg)](https://github.com/ProjectPythia/CFC-extreme-weather-cookbook/actions/workflows/nightly-build.yaml)
 [![Binder](https://binder.projectpythia.org/badge_logo.svg)](https://binder.projectpythia.org/v2/gh/ProjectPythia/CFC-extreme-weather-cookbook/main?labpath=notebooks)
