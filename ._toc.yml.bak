@@ -1,0 +1,10 @@
+format: jb-book
+root: README
+parts:
+  - caption: Preamble
+    chapters:
+      - file: notebooks/how-to-cite
+  - caption: Notebook Gallery
+    chapters:
+      - file: notebooks/cfc-ocean
+      - file: notebooks/cfc-atm
