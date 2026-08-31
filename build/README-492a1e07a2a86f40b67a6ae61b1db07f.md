@@ -17,7 +17,7 @@ We would like to especially thank [Justus Magin](https://github.com/keewis) for 
 
 ## Authors
 
-[Jhordanne Jones](github/jhordannej), [Shanice Bailey](github/shanicetbailey), [Caribbeans For Climate community](https://www.caribbeansforclimate.com/).
+[Jhordanne Jones](https://github/jhordannej), [Shanice Bailey](https://github/shanicetbailey), [Caribbeans For Climate community](https://www.caribbeansforclimate.com/).
 
 ### Contributors
 
