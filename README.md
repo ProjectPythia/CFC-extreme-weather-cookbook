@@ -27,7 +27,7 @@ We would like to especially thank [Justus Magin](https://github.com/keewis) for 
 
 ## Structure
 
-_This cookbook has three sections: "Extreme SSTs" and "Extreme Precipitation" and "Links between atmosphere, ocean and ENSO"._
+_This cookbook has two sections: "Extreme SSTs" and "Extreme Precipitation" and "Links between atmosphere, ocean and ENSO"._
 
 ### Section 1: Extreme SSTs 
 
